@@ -19,7 +19,7 @@
       </b-card-group>
     </b-row>
     <b-row align-h="center" class="mt-5">
-      <p>Questions? Ask James <a href="https://twitter.com/jbesw">@jbesw</a>.</p>
+      <p>Questions? Ask Tanja <a href="https://www.instagram.com/zusmess/">ZusMess</a>.</p>
     </b-row>
   </div>  
 </template>
@@ -54,7 +54,6 @@ export default {
   },
   created () {
     this.updateVotes()
-    setInterval(this.updateVotes, 30000000)
   }
 }
 </script>
