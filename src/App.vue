@@ -2,16 +2,17 @@
   <div id="app" class="hello">
 <h1>Welcome to the Serverless Voting App. Now with Amplify!</h1>
       <h4>Click to vote on this very important issue.</h4>
+      <h4>Hoce li Tanja konstantnim trigerovanjem lambdi dovesti Esteh do bankrota?</h4>
       <h4>You can vote as many times as you like. Click away!</h4>
 <b-row align-h="center" class="mt-5">
       <b-card-group deck>
         <b-card bg-variant="success" text-variant="white" header="Vote Yes" class="text-center" footer-tag="footer">
-          <b-card-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</b-card-text>
+          <b-card-text>Yes, fire her asap!</b-card-text>
           <b-button size="lg" variant="primary"  @click="vote('yes')">Button</b-button>
           <em slot="footer">{{ votesYes }} voted</em>
         </b-card>
 <b-card bg-variant="danger" text-variant="white" header="Vote No" class="text-center" footer-tag="footer">
-          <b-card-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</b-card-text>
+          <b-card-text>Ne, naucice makar nesto jednog od ovih dana..</b-card-text>
           <b-button size="lg" variant="primary" @click="vote('no')">Button</b-button>
           <em slot="footer">{{ votesNo }} voted</em>
         </b-card>
