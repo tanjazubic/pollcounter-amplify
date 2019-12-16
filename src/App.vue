@@ -53,7 +53,7 @@ export default {
   },
   created () {
     this.updateVotes()
-    setInterval(this.updateVotes, 3000)
+    setInterval(this.updateVotes, 30000000)
   }
 }
 </script>
