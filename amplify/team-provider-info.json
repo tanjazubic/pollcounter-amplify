@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-pollcounter-dev-114134-authRole",
+            "UnauthRoleArn": "arn:aws:iam::482507801868:role/amplify-pollcounter-dev-114134-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::482507801868:role/amplify-pollcounter-dev-114134-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-pollcounter-dev-114134-deployment",
+            "UnauthRoleName": "amplify-pollcounter-dev-114134-unauthRole",
+            "StackName": "amplify-pollcounter-dev-114134",
+            "StackId": "arn:aws:cloudformation:eu-west-1:482507801868:stack/amplify-pollcounter-dev-114134/680a50a0-1ff0-11ea-a288-06e1cdb6e382",
+            "AmplifyAppId": "d1ynwr6a0hb8qx"
+        }
+    }
+}
