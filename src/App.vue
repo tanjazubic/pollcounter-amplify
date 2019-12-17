@@ -53,7 +53,8 @@ export default {
     }
   },
   created () {
-    this.updateVotes()
+    //this.updateVotes()
+    //setInterval(this.updateVotes, 99999999)
   }
 }
 </script>
