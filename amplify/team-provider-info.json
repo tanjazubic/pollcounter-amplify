@@ -10,6 +10,11 @@
             "StackName": "amplify-pollcounter-dev-114134",
             "StackId": "arn:aws:cloudformation:eu-west-1:482507801868:stack/amplify-pollcounter-dev-114134/680a50a0-1ff0-11ea-a288-06e1cdb6e382",
             "AmplifyAppId": "d1ynwr6a0hb8qx"
+        },
+        "categories": {
+            "auth": {
+                "pollcounterf8147b2d": {}
+            }
         }
     }
 }
